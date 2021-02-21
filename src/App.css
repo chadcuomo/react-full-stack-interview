@@ -39,6 +39,7 @@ ul {
   min-width: 225px;
   display: flex;
   text-align: center;
+  justify-content: center;
   margin: 20px;
   background-color: rgb(202, 202, 202);
   border-radius: 8px;
